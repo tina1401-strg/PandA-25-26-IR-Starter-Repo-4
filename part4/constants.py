@@ -6,6 +6,9 @@ HELP = """Commands:
   :quit            Exit the program
   :highlight on|off
                    Toggle highlighting of matches
+  :search-mode AND|OR
+                   AND: Print sonnets that contain all words
+                   OR: Print sonnets that contain at least one word
 
 Usage:
   Enter one or more words to search (AND). Examples:
